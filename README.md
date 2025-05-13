@@ -1,4 +1,4 @@
 # RNA-e-Deep-Learning
 
-## Nome: André Luiz
+## Nome: André Luiz Queiroz Valpassos
 ## Email: alqv@cesar.school
